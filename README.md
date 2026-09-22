@@ -4,7 +4,7 @@
 
 ### Cloud & DevOps Engineer | AWS Certified Solutions Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-thakur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-thakur-lpu/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p2004.manishthakur@gmail.com)
 [![AWS SAA](https://img.shields.io/badge/AWS_SAA-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://drive.google.com/file/d/1wHWnIq8x9wYhg2vQvt35clTA81AcNnAX/view)
 
@@ -112,18 +112,16 @@ Internet → ALB (public subnets) → EC2 ASG (private subnets) → RDS MySQL (i
 | Certification | Issuer | Date |
 |---|---|---|
 | [AWS Certified Solutions Architect – Associate](https://drive.google.com/file/d/1wHWnIq8x9wYhg2vQvt35clTA81AcNnAX/view) | Amazon Web Services | May 2026 |
-| [AWS Networking Zero to Hero](https://drive.google.com/file/d/1W3Ovt0CQV5CZLTssRaJkDtRg91OfCSI1/view) | Udemy | Mar 2026 |
-| [AWS Solutions Architect Training](https://drive.google.com/file/d/1v63bBm64ZURpeMgKzJnRfuQ0CmcJWTjz/view) | AWS Student Program | Jan 2026 |
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish010204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish010204&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f78166&icon_color=79c0ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish010204&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish010204&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f78166)
 
 </div>
 
