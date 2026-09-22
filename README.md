@@ -112,6 +112,8 @@ Internet → ALB (public subnets) → EC2 ASG (private subnets) → RDS MySQL (i
 | Certification | Issuer | Date |
 |---|---|---|
 | [AWS Certified Solutions Architect – Associate](https://drive.google.com/file/d/1wHWnIq8x9wYhg2vQvt35clTA81AcNnAX/view) | Amazon Web Services | May 2026 |
+| [AWS Networking Zero to Hero](https://drive.google.com/file/d/1W3Ovt0CQV5CZLTssRaJkDtRg91OfCSI1/view) | Udemy | Mar 2026 |
+| [AWS Solutions Architect Training](https://drive.google.com/file/d/1v63bBm64ZURpeMgKzJnRfuQ0CmcJWTjz/view) | AWS Student Program | Jan 2026 |
 
 ---
 
@@ -119,11 +121,14 @@ Internet → ALB (public subnets) → EC2 ASG (private subnets) → RDS MySQL (i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manish010204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://streak-stats.demolab.com?user=Manish010204&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish010204&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish010204&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
+
 ---
 
 ## What I'm Looking For
@@ -132,6 +137,6 @@ Open to **Cloud Engineer**, **DevOps Engineer**, and **Junior SRE** roles where 
 
 <div align="center">
 
-**Let's connect →** [LinkedIn](https://linkedin.com/in/manish-thakur) | [Email](mailto:p2004.manishthakur@gmail.com)
+**Let's connect →** [LinkedIn](https://www.linkedin.com/in/manish-thakur-lpu/) | [Email](mailto:p2004.manishthakur@gmail.com)
 
 </div>
