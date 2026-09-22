@@ -118,13 +118,12 @@ Internet → ALB (public subnets) → EC2 ASG (private subnets) → RDS MySQL (i
 ## GitHub Stats
 
 <div align="center">
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish010204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish010204&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Manish010204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish010204&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## What I'm Looking For
