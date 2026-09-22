@@ -125,7 +125,7 @@ Internet → ALB (public subnets) → EC2 ASG (private subnets) → RDS MySQL (i
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish010204&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manish010204&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
